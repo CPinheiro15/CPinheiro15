@@ -38,4 +38,4 @@ With a strong foundation in computer science and practical experience gained thr
 
 ### 📈 **Let's Connect!**
 - **Email:** [craiganpinheiro@gmail.com](mailto:craiganpinheiro@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/craigan
+- **LinkedIn:** [linkedin.com/in/craigan-pinheiro-444093289](https://www.linkedin.com/in/craigan-pinheiro-444093289/)  
