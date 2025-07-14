@@ -1,41 +1,63 @@
-# 💻 Craigan Pinheiro  
-### *Computer Science Graduate | Aspiring Full Stack Software Developer*
+# ☁️ Craigan Pinheiro  
+### *Computer Science Graduate | Full Stack Developer | Cloud Computing Enthusiast | AWS Certified Cloud Practitioner*
 
-Welcome to my GitHub profile! I'm Craigan, a dedicated and methodical tech enthusiast with a **First-Class Honours Bachelor’s degree in Computer Science**. Currently, I'm sharpening my skills through a **Full Stack Software Developer Bootcamp**, diving deeper into the world of software development and engineering best practices.
+Welcome to my GitHub! I'm Craigan — a curious and methodical Computer Science graduate with a **First-Class Honours degree** and a strong foundation in full stack web development.  
 
----
-
-### 🛠️ **Key Skills & Expertise**
-- **Project Management & Agile Methodology**  
-- **Software Development Life Cycle (SDLC)**  
-- **Programming Languages & Tools:**  
-  - HTML, CSS, JavaScript, SQL  
-  - Python, Java  
-- **Core Strengths:**  
-  - Methodical problem-solving & attention to detail  
-  - Excellent organizational & time management skills  
-  - Team player with splendid interpersonal abilities  
+Lately, I've shifted gears into the **world of cloud computing**, recently earning my **AWS Certified Cloud Practitioner** certification and currently preparing for the **AWS Solutions Architect Associate**. I'm passionate about building scalable, secure, and well-architected solutions using AWS services.
 
 ---
 
-### 📚 **Current Focus**
-- Mastering full-stack development and creating dynamic, user-friendly web applications.  
-- Exploring modern web technologies and frameworks.  
-- Collaborating on projects that solve real-world problems with a strong emphasis on clean, efficient code.
+## 🛠️ Key Skills & Technologies
+
+- **☁️ Cloud & DevOps (In Progress):**  
+  AWS EC2, S3, RDS, IAM, CloudFront, Cloud Principles, Security Best Practices  
+  *Currently exploring:* Docker, Linux, Serverless Architectures  
+
+- **💻 Software Development:**  
+  HTML, CSS, JavaScript, Python, Django, SQL  
+
+- **📦 Tools & Workflow:**  
+  Git & GitHub · Agile · SDLC · Problem Solving · Time Management  
 
 ---
 
-### 🌟 **What I Bring**
-With a strong foundation in computer science and practical experience gained through my bootcamp, I thrive in environments where **innovation meets collaboration**. My **keen eye for detail** and commitment to continuous learning ensure I'm always improving and staying up-to-date with the latest trends in technology.
+## 🚀 Current Focus
+
+- 📚 Studying for the **AWS Solutions Architect Associate**  
+- 🔁 Re-architecting personal projects using **AWS best practices**  
+- 🧠 Deepening my understanding of **cloud-native applications** and deployment workflows  
 
 ---
 
-### ⚽ **Hobbies & Interests**
-- **Gaming:** Enjoy diving into immersive worlds and sharpening strategic thinking.  
-- **Football:** A passionate fan of the beautiful game—whether playing or watching!  
+## 📂 Notable Projects
+
+> Practical experience meets cloud ambition — combining development with deployment.
+
+- **🏃‍♂️ Love Running**  
+  A static site for a running community. Currently migrating to **AWS S3 + CloudFront** for scalable static hosting.  
+
+- **⚽ Football 101**  
+  A full-stack web app to help beginners learn about football. Migration in progress to **AWS EC2, RDS, and IAM** for secure, scalable deployment.  
 
 ---
 
-### 📈 **Let's Connect!**
-- **Email:** [craiganpinheiro@gmail.com](mailto:craiganpinheiro@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/craigan-pinheiro-444093289](https://www.linkedin.com/in/craigan-pinheiro-444093289/)  
+## 🌟 What I Bring
+
+With a solid base in software development and a growing skillset in cloud computing, I enjoy solving real-world problems through **clean code** and **scalable infrastructure**. I’m a fast learner, team player, and someone who’s always pushing to improve.
+
+---
+
+## 🎮 Hobbies & Interests
+
+- ⚽ **Football** – Fan, player, and tactical nerd  
+- 🎮 **Gaming** – Strategy games for sharpening problem-solving  
+- 🏋️ **Gym & Swimming** – Keeping body and mind in sync  
+
+---
+
+## 📫 Let’s Connect!
+
+- 📧 **Email:** [craiganpinheiro@gmail.com](mailto:craiganpinheiro@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/craigan-pinheiro-444093289](https://www.linkedin.com/in/craigan-pinheiro-444093289/)
+
+> Thanks for visiting — feel free to check out my repos or connect to talk about **AWS**, **web dev**, or anything tech!
