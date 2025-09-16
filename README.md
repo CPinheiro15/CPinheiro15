@@ -14,7 +14,7 @@ I’m an **AWS Certified Solutions Architect – Associate (SAA)**, with skills 
   *Exploring:* Docker · Linux · Serverless Architectures
 
 - **💻 Programming & Tools:**  
-  Python · JavaScript · SQL · Git & GitHub
+  Python · JavaScript · SQL · Git & GitHub · HTML · CSS 
 
 ---
 
@@ -22,7 +22,7 @@ I’m an **AWS Certified Solutions Architect – Associate (SAA)**, with skills 
 
 - 🛠️ Re-architecting personal projects using **AWS services and best practices** (in progress)  
 - 🌐 Gaining hands-on experience with **cloud-native applications** and infrastructure as code  
-- 🔍 Exploring **serverless and containerized** deployments
+- 🔍 Exploring **serverless and containerised** deployments
 
 ---
 
