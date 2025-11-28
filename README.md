@@ -1,54 +1,62 @@
-# ☁️ Craigan Pinheiro
-### *Computer Science Graduate | AWS Certified Solutions Architect – Associate | Cloud & Systems Design Enthusiast*
+# 🐍 Craigan Pinheiro
+### Computer Science Graduate | Python Developer | Backend & Full-Stack Projects | AWS Awareness
 
-Welcome to my GitHub! I'm Craigan — a curious and methodical Computer Science graduate with a **First-Class Honours degree** and a growing focus on **cloud computing and solutions architecture**.
+Welcome to my GitHub! I’m Craigan — a **First-Class Computer Science graduate** passionate about **Python, backend development, and building functional, reliable applications**. I enjoy hands-on projects that help me develop software engineering skills, including full-stack web apps, APIs, and data-driven solutions.
 
-I’m an **AWS Certified Solutions Architect – Associate (SAA)**, with skills in **designing scalable, secure, and well-architected solutions** on AWS. My goal is to leverage cloud services and best practices to solve real-world problems, while continuously expanding my expertise in cloud-native technologies.
+I also have experience with **AWS cloud services** and serverless applications, which I use to supplement my Python projects and explore scalable deployment patterns.
 
 ---
 
 ## 🛠️ Key Skills & Technologies
 
-- **☁️ Cloud & DevOps:**  
-  AWS (EC2, S3, RDS, IAM, VPC, CloudFormation, Lambda), Cloud Principles, Security Best Practices  
-  *Exploring:* Docker · Linux · Serverless Architectures
+- **💻 Programming & Backend Development:**  
+  Python · Django · REST APIs · SQL (MySQL, SQLite) · JavaScript · HTML · CSS · Git & GitHub
 
-- **💻 Programming & Tools:**  
-  Python · JavaScript · SQL · Git & GitHub · HTML · CSS 
+- **☁️ Cloud & Deployment Awareness:**  
+  AWS (Lambda, S3, API Gateway, CloudFront) · Serverless Architecture · Docker · Environment Management
 
 ---
 
 ## 🚀 Current Focus
 
-- 🛠️ Re-architecting personal projects using **AWS services and best practices** (in progress)  
-- 🌐 Gaining hands-on experience with **cloud-native applications** and infrastructure as code  
-- 🔍 Exploring **serverless and containerised** deployments
+- Building **Python backend applications and RESTful APIs**
+- Developing **full-stack Django projects** with secure authentication and database integration
+- Expanding skills in **debugging, testing, and modular code design**
+- Applying **cloud-based solutions** to Python projects as a secondary focus
 
 ---
 
 ## 📂 Notable Projects
 
-> Hands-on learning through cloud-focused work (migration/re-architecture in progress).
+- **⚽ Football 101**  
+  Full-stack learning platform with quizzes, progress tracking, and user authentication.  
+  **Technologies:** Django, Python, JavaScript, SQLite/MySQL  
+  **Highlights:** Backend logic, database modelling, REST API endpoints, deployment on PythonAnywhere
 
 - **🏃‍♂️ Love Running**  
-  Responsive static site for a running community — **currently migrating to AWS S3 + CloudFront** for scalable, secure hosting.  
-  *Technologies:* HTML, CSS — (migration in progress)
+  Responsive static site for a running community with event information and route sharing.  
+  **Technologies:** HTML, CSS, JavaScript  
+  **Highlights:** Frontend development, responsive design, and web layout best practices; deployed with consideration for cloud hosting (S3/CloudFront optional)
 
-- **⚽ Football 101**  
-  Full-stack education app for football beginners — **being re-architected with AWS EC2, RDS, and IAM** to demonstrate cloud migration and secure deployment.  
-  *Technologies:* Django, Python, JavaScript, SQLite — (re-architecture in progress)
+- **🖥️ Serverless Backend API**  
+  Small Python microservice with REST endpoints.  
+  **Technologies:** Python, AWS Lambda, API Gateway, CloudWatch  
+  **Highlights:** Event-driven backend logic, input validation, error handling, debugging logs
 
 ---
 
 ## 🌟 What I Bring
 
-With a strong academic foundation and certified skills in **AWS cloud architecture**, I enjoy solving challenges through **system design** and **scalable infrastructure**. I’m a fast learner, effective collaborator, and motivated to grow into a **Solutions Architect** role.
+- Strong foundation in **Python, backend, and software engineering principles**  
+- Experience building **functional, maintainable applications** from scratch  
+- Familiarity with **cloud-based deployments and serverless patterns**  
+- Analytical thinking, problem-solving, and collaboration skills suitable for graduate software engineering roles
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Let’s Connect
 
-- 📧 **Email:** [craiganpinheiro@gmail.com](mailto:craiganpinheiro@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/craigan-pinheiro](https://www.linkedin.com/in/craigan-pinheiro/)
+- 📧 Email: [craiganpinheiro@gmail.com](mailto:craiganpinheiro@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/craigan-pinheiro](https://www.linkedin.com/in/craigan-pinheiro/)
 
-> Thanks for visiting — feel free to check out my repos or connect to talk about **AWS, cloud architecture, or tech in general!**
+> Thanks for visiting — feel free to check out my repos or connect to talk about **Python, backend development, or software engineering**!
